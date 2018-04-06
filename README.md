@@ -1,2 +1,2 @@
 # Polaris-Light
-# welcome!
+# welcome to Polaris Light!
