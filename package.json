@@ -1,0 +1,19 @@
+{
+  "name": "polaris-light",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beatofangel/Polaris-Light.git"
+  },
+  "author": "Eric Wang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/beatofangel/Polaris-Light/issues"
+  },
+  "homepage": "https://github.com/beatofangel/Polaris-Light#readme"
+}
